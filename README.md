@@ -1,4 +1,4 @@
-# Machine-Learning ( Bayesian )
+# Machine-Learning ( Bayesian Analysis )
 Summer Project 2019 under Programming Club - IIT Kanpur
 
 This is a implementation of Bayesian Linear Regression.
