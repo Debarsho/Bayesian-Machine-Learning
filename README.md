@@ -1,5 +1,5 @@
 # Machine-Learning ( Bayesian Analysis )
-Summer Project 2019 under Programming Club - IIT Kanpur
+Summer Project 2019 under Programming Club - IIT, Kanpur
 
 This is a implementation of Bayesian Linear Regression.
 In the Bayesian viewpoint, we formulate linear regression using probability distributions rather than point estimates. 
